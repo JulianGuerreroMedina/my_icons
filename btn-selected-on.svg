@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="63mm"
+   height="32mm"
+   viewBox="0 0 63 32"
+   version="1.1"
+   id="svg3285"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="btn-selected-on.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3287"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1162395"
+     inkscape:cx="102.57655"
+     inkscape:cy="89.586506"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3282" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6616"
+       transform="matrix(1.4127315,0,0,1.4399543,76.69663,-327.68661)"
+       inkscape:export-filename="/home/julian_guerrero/Documentos/iconos/selected-on.png"
+       inkscape:export-xdpi="38.233295"
+       inkscape:export-ydpi="38.233295"
+       style="stroke-width:0.657012">
+      <rect
+         style="fill:#1781ff;fill-opacity:1;fill-rule:evenodd;stroke:#006cd1;stroke-width:0.680539;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect495"
+         width="43.784203"
+         height="21.650537"
+         x="-53.884472"
+         y="227.85356"
+         ry="9.1694746" />
+      <circle
+         style="fill:#ffffff;stroke:#006cd1;stroke-width:0.355746;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path1705"
+         cx="-20.747057"
+         cy="238.75415"
+         r="6.7491431" />
+    </g>
+  </g>
+</svg>

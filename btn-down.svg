@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22mm"
+   height="22mm"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1589"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="btn-down.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1591"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.8680225"
+     inkscape:cx="50.284093"
+     inkscape:cy="68.510461"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1586" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1744"
+       style="fill:#000000;stroke-width:0.070241"
+       d="m 10.983387,21.999999 c 1.233234,0 1.545187,-0.02283 2.176843,-0.15946 1.925904,-0.416598 3.477196,-1.175643 4.978535,-2.436086 1.840944,-1.545545 3.134834,-3.737644 3.669456,-6.2166 0.311894,-1.467137 0.191714,-2.800425 0.0033,-4.3384899 -0.738059,-3.396011 -2.79439,-6.114157 -5.782522,-7.643503 C 14.826284,0.59030108 13.94428,0.30086908 12.60409,0.08181808 c -0.889649,-0.145417 -2.9152851,-0.0891 -3.8321061,0.106487 C 4.3947539,1.1221651 1.1138109,4.4148881 0.15952596,8.8316641 0.02297396,9.4636831 2.1954351e-5,9.7758151 2.1954351e-5,11.009756 c 0,1.232762 0.02302000565,1.54668 0.159224005649,2.178097 0.738482,3.4242 2.86338794,6.18192 5.94435394,7.714315 0.855339,0.425425 1.72497,0.72737 2.703494,0.938644 0.631057,0.136249 0.944792,0.159187 2.1768431,0.159187 z m 0.01632,-4.881642 -3.0194971,-5.233081 -3.019621,-5.2330819 h 6.0391181 6.039125 l -3.019491,5.2330819 z"
+       inkscape:export-filename="/home/julian-guerrero/buttonleft.png"
+       inkscape:export-xdpi="6.7399998"
+       inkscape:export-ydpi="6.7399998" />
+  </g>
+</svg>

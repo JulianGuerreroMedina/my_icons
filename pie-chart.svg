@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22mm"
+   height="22mm"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1589"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="pie-chart.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1591"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.8680225"
+     inkscape:cx="50.284093"
+     inkscape:cy="68.510461"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1586" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0.06283919,0,0,0.06283919,11,11)"
+       id="g847"
+       inkscape:export-filename="/home/julian-guerrero/Documentos/iconos/g847.png"
+       inkscape:export-xdpi="13.93"
+       inkscape:export-ydpi="13.93">
+      <g
+         style="opacity:1;fill:none;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
+         transform="matrix(3.89,0,0,3.89,-175.05,-175.05)"
+         id="g845">
+        <path
+           d="M 41.808,45.075 56.531,1.497 C 52.85,0.524 48.987,0 45,0 20.147,0 0,20.147 0,45 c 0,24.853 20.147,45 45,45 4.727,0 9.283,-0.733 13.563,-2.085 z"
+           style="opacity:1;fill:#d2555a;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
+           stroke-linecap="round"
+           id="path839" />
+        <path
+           d="M 86.934,28.656 C 82.482,17.246 73.509,8.098 62.214,3.417 L 49.59,40.788 Z"
+           style="opacity:1;fill:#ffc36e;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
+           stroke-linecap="round"
+           id="path841" />
+        <path
+           d="M 49.104,47.255 64.15,85.725 C 79.424,78.53 90,63.003 90,45 90,41.341 89.558,37.786 88.733,34.38 Z"
+           style="opacity:1;fill:#a5d76e;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
+           stroke-linecap="round"
+           id="path843" />
+      </g>
+    </g>
+  </g>
+</svg>

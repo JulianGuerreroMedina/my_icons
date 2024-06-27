@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32mm"
+   height="32mm"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1171"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="btn-save.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1173"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.6129"
+     inkscape:cx="98.120622"
+     inkscape:cy="82.620609"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1168" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g89"
+       transform="matrix(0.06551443,0,0,0.06551376,-1.3063789e-4,2.3464e-7)"
+       inkscape:export-xdpi="90.029999"
+       inkscape:export-ydpi="90.029999"
+       style="stroke-width:3.06753">
+      <g
+         id="g28"
+         style="stroke-width:3.06753">
+        <g
+           id="g26"
+           style="stroke-width:3.06753">
+          <g
+             id="g24"
+             style="stroke-width:3.06753">
+            <path
+               id="path16"
+               d="m 153.029,90.223 h 182.404 c 5.427,0 9.873,-4.43 9.873,-9.869 V 0 H 143.137 v 80.354 c 0,5.439 4.434,9.869 9.892,9.869 z"
+               inkscape:connector-curvature="0"
+               style="stroke-width:3.06753" />
+            <path
+               id="path18"
+               d="M 480.817,122.864 377.88,19.494 v 60.859 c 0,23.404 -19.043,42.447 -42.447,42.447 H 153.029 c -23.409,0 -42.447,-19.043 -42.447,-42.447 V 0 H 44.823 C 20.068,0 0.002,20.07 0.002,44.808 v 398.831 c 0,24.736 20.066,44.808 44.821,44.808 h 398.813 c 24.74,0 44.808,-20.068 44.808,-44.808 V 141.325 c 0,-6.933 -2.746,-13.567 -7.627,-18.461 z m -68.356,262.802 c 0,14.434 -11.703,26.154 -26.168,26.154 H 102.137 c -14.451,0 -26.153,-11.722 -26.153,-26.154 V 249.303 c 0,-14.43 11.702,-26.148 26.153,-26.148 h 284.156 c 14.465,0 26.168,11.72 26.168,26.148 z"
+               inkscape:connector-curvature="0"
+               style="stroke-width:3.06753" />
+            <path
+               id="path20"
+               d="M 356.497,265.131 H 131.949 c -9.008,0 -16.294,7.273 -16.294,16.28 0,9.007 7.286,16.28 16.294,16.28 h 224.549 c 8.988,0 16.277,-7.273 16.277,-16.28 0,-9.007 -7.288,-16.28 -16.278,-16.28 z"
+               inkscape:connector-curvature="0"
+               style="stroke-width:3.06753" />
+            <path
+               id="path22"
+               d="M 323.936,330.264 H 164.508 c -8.994,0 -16.28,7.273 -16.28,16.28 0,8.989 7.286,16.28 16.28,16.28 h 159.427 c 8.994,0 16.281,-7.291 16.281,-16.28 10e-4,-9.007 -7.286,-16.28 -16.28,-16.28 z"
+               inkscape:connector-curvature="0"
+               style="stroke-width:3.06753" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g30"
+         style="stroke-width:3.06753" />
+      <g
+         id="g32"
+         style="stroke-width:3.06753" />
+      <g
+         id="g34"
+         style="stroke-width:3.06753" />
+      <g
+         id="g36-3"
+         style="stroke-width:3.06753" />
+      <g
+         id="g38-6"
+         style="stroke-width:3.06753" />
+      <g
+         id="g40"
+         style="stroke-width:3.06753" />
+      <g
+         id="g42"
+         style="stroke-width:3.06753" />
+      <g
+         id="g44"
+         style="stroke-width:3.06753" />
+      <g
+         id="g46"
+         style="stroke-width:3.06753" />
+      <g
+         id="g48"
+         style="stroke-width:3.06753" />
+      <g
+         id="g50"
+         style="stroke-width:3.06753" />
+      <g
+         id="g52"
+         style="stroke-width:3.06753" />
+      <g
+         id="g54"
+         style="stroke-width:3.06753" />
+      <g
+         id="g56"
+         style="stroke-width:3.06753" />
+      <g
+         id="g58"
+         style="stroke-width:3.06753" />
+    </g>
+  </g>
+</svg>

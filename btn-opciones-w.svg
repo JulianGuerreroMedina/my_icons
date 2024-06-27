@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   fill="currentColor"
+   class="bi bi-list"
+   viewBox="0 0 23.272727 23.272727"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="btn-opciones-w.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="7.6717004"
+     inkscape:cx="-5.8657139"
+     inkscape:cy="7.9513011"
+     inkscape:current-layer="svg4"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <g
+     id="g1205"
+     transform="matrix(0.58181817,0,0,0.80934443,42.689138,-6.9779898)"
+     style="fill:#ffffff">
+    <g
+       id="g1112"
+       transform="translate(-1.4056058,-0.67016562)"
+       style="fill:#ffffff">
+      <path
+         fill-rule="evenodd"
+         d="m -67.597649,16.743871 c 0,-1.380711 0.63624,-2.5 1.42108,-2.5 h 28.42163 c 1.89318,0.0029 1.89318,5.002792 0,4.999999 h -28.42163 c -0.78484,0 -1.42108,-1.119289 -1.42108,-2.499999 z"
+         id="path714"
+         style="fill:#ffffff;stroke-width:3.76972"
+         sodipodi:nodetypes="ssccss" />
+      <path
+         fill-rule="evenodd"
+         d="m -67.597649,23.669464 c 0,-1.380711 0.63624,-2.5 1.42108,-2.5 h 28.42163 c 1.89318,0.0029 1.89318,5.002792 0,4.999999 h -28.42163 c -0.78484,0 -1.42108,-1.119289 -1.42108,-2.499999 z"
+         id="path1118"
+         style="fill:#ffffff;stroke-width:3.76972"
+         sodipodi:nodetypes="ssccss" />
+      <path
+         fill-rule="evenodd"
+         d="m -67.597649,30.595055 c 0,-1.380711 0.63624,-2.5 1.42108,-2.5 h 28.42163 c 1.89318,0.0029 1.89318,5.002792 0,4.999999 h -28.42163 c -0.78484,0 -1.42108,-1.119289 -1.42108,-2.499999 z"
+         id="path1200"
+         style="fill:#ffffff;stroke-width:3.76972"
+         sodipodi:nodetypes="ssccss" />
+    </g>
+  </g>
+</svg>

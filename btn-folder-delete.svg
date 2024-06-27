@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32mm"
+   height="32mm"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="btn-folderdelete.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.2352358"
+     inkscape:cx="-50.228178"
+     inkscape:cy="63.364779"
+     inkscape:window-width="1516"
+     inkscape:window-height="849"
+     inkscape:window-x="172"
+     inkscape:window-y="53"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g5911" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2561"
+       transform="matrix(0.24314156,0,0,0.23738281,68.69551,7.7684852)"
+       style="stroke-width:4.16242">
+      <g
+         id="g5911"
+         transform="matrix(1,0,0,1.0333474,-5.8606105e-7,-3.4040375)"
+         style="stroke-width:4.09471">
+        <g
+           id="g1088"
+           transform="matrix(1,0,0,1.1348376,0,-34.147215)">
+          <path
+             style="fill:#fbe24c;stroke-width:4.09471"
+             d="m -282.5307,53.86424 c 0.0824,-37.444079 0.10472,-38.959129 0.59918,-40.647749 1.1564,-3.94915 4.71968,-7.09251 8.94491,-7.89077 1.07424,-0.20296 5.08272,-0.27573 12.2843,-0.22303 l 10.68976,0.0782 5.92248,7.7916 c 3.25737,4.28539 6.13652,7.94656 6.39813,8.13594 0.3796,0.27481 4.18361,0.34433 18.84062,0.34433 l 59.13614,0.40212 c 2.88042,0.73058 5.19469,2.39953 6.8613,4.94805 1.9036,2.91092 1.82103,1.38128 1.91056,35.395656 -0.0608,12.280595 0.0209,12.100001 0.0209,12.100001 l -65.81824,-0.06146 -65.74576,0.04956 c 0,0 -0.0586,-13.631239 -0.0443,-20.422473 z"
+             id="path2571"
+             sodipodi:nodetypes="cssscscccscccccc" />
+          <path
+             style="fill:#fbb800;stroke-width:4.09471"
+             d="m -273.91658,101.72001 c -3.24643,-0.87093 -6.08659,-3.199044 -7.58531,-6.21777 l -0.87219,-1.756778 -0.0795,-9.723437 -0.0794,-9.723437 h 65.80528 65.80529 l -0.0795,9.723437 -0.0795,9.723437 -0.89335,1.800487 c -1.52619,3.07589 -4.58538,5.508751 -7.86342,6.253471 -1.84572,0.41931 -112.50645,0.34228 -114.07837,-0.0794 z"
+             id="path4724"
+             sodipodi:nodetypes="sscccccccssss" />
+        </g>
+        <image
+           preserveAspectRatio="none"
+           inkscape:svg-dpi="96"
+           width="90.482262"
+           height="89.686485"
+           xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjwh LS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoK PHN2ZwogICB3aWR0aD0iMjJtbSIKICAgaGVpZ2h0PSIyMm1tIgogICB2aWV3Qm94PSIwIDAgMjIg MjIiCiAgIHZlcnNpb249IjEuMSIKICAgaWQ9InN2ZzUiCiAgIGlua3NjYXBlOnZlcnNpb249IjEu MS4yICgwYTAwY2Y1MzM5LCAyMDIyLTAyLTA0KSIKICAgc29kaXBvZGk6ZG9jbmFtZT0iYnRuLXgu c3ZnIgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNl cy9pbmtzY2FwZSIKICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3Jn ZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAw MC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxzb2Rp cG9kaTpuYW1lZHZpZXcKICAgICBpZD0ibmFtZWR2aWV3NyIKICAgICBwYWdlY29sb3I9IiNmZmZm ZmYiCiAgICAgYm9yZGVyY29sb3I9IiM2NjY2NjYiCiAgICAgYm9yZGVyb3BhY2l0eT0iMS4wIgog ICAgIGlua3NjYXBlOnBhZ2VzaGFkb3c9IjIiCiAgICAgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAu MCIKICAgICBpbmtzY2FwZTpwYWdlY2hlY2tlcmJvYXJkPSIwIgogICAgIGlua3NjYXBlOmRvY3Vt ZW50LXVuaXRzPSJtbSIKICAgICBzaG93Z3JpZD0iZmFsc2UiCiAgICAgd2lkdGg9IjEwMG1tIgog ICAgIGlua3NjYXBlOnpvb209IjAuNTczNzA5MzIiCiAgICAgaW5rc2NhcGU6Y3g9IjMxMS4xMzMx NyIKICAgICBpbmtzY2FwZTpjeT0iNDIxLjgxNjQiCiAgICAgaW5rc2NhcGU6d2luZG93LXdpZHRo PSIxNTE2IgogICAgIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9Ijg0OSIKICAgICBpbmtzY2FwZTp3 aW5kb3cteD0iNDA0IgogICAgIGlua3NjYXBlOndpbmRvdy15PSI1OCIKICAgICBpbmtzY2FwZTp3 aW5kb3ctbWF4aW1pemVkPSIwIgogICAgIGlua3NjYXBlOmN1cnJlbnQtbGF5ZXI9ImxheWVyMSIg Lz4KICA8ZGVmcwogICAgIGlkPSJkZWZzMiIgLz4KICA8ZwogICAgIGlua3NjYXBlOmxhYmVsPSJD YXBhIDEiCiAgICAgaW5rc2NhcGU6Z3JvdXBtb2RlPSJsYXllciIKICAgICBpZD0ibGF5ZXIxIj4K ICAgIDxwYXRoCiAgICAgICBpZD0icGF0aDY1IgogICAgICAgc3R5bGU9ImZpbGw6I2Q0MDAwMDtz dHJva2U6bm9uZTtzdHJva2Utd2lkdGg6MC4zMDA1NzciCiAgICAgICBkPSJNIDExLC02LjQ5OTk5 OTllLTggQyA0LjkyNDg3MDIsNC45ODVlLTYgNS4zNmUtNiw0LjkyNDg3MDEgLTQuOTk5OTk5N2Ut OCwxMSA0LjgzZS02LDE3LjA3NTEzIDQuOTI0ODcsMjEuOTk5OTk1IDExLDIyIDE3LjA3NTEzMSwy MS45OTk5OTYgMjEuOTk5OTk1LDE3LjA3NTEzMSAyMiwxMSAyMS45OTk5OTUsNC45MjQ4Njk1IDE3 LjA3NTEzMSw0LjA3NWUtNiAxMSwtNi40OTk5OTk5ZS04IFogTSA2LjU3MDkyMiw0LjY4MzgyMzEg YyAwLjQ4MTk0MzUsMCAwLjk2Mzg0NjksMC4xODQ2NzM1IDEuMzMzMTM2NywwLjU1Mzk2MjYgTCAx MSw4LjMzMzcyNyAxNC4wOTU5NDIsNS4yMzc3ODU3IGMgMC43Mzg1OCwtMC43Mzg1NzgyIDEuOTI3 ODA4LC0wLjczODU3ODIgMi42NjYzODYsMCAwLjczODU4MSwwLjczODU4MDQgMC43Mzg1ODEsMS45 Mjc2OTIzIDAsMi42NjYyNzI5IEwgMTMuNjY2Mzg2LDExIGwgMy4wOTU5NDIsMy4wOTU5NDIgYyAw LjczODU4MSwwLjczODU4IDAuNzM4NTgxLDEuOTI3ODA2IDAsMi42NjYzODYgLTAuNzM4NTc4LDAu NzM4NTgxIC0xLjkyNzgwNiwwLjczODU4MSAtMi42NjYzODYsMCBMIDExLDEzLjY2NjM4NiA3Ljkw NDA1ODcsMTYuNzYyMzI4IGMgLTAuNzM4NTgsMC43Mzg1ODEgLTEuOTI3ODA3NSwwLjczODU4MSAt Mi42NjYzODcxLDAgLTAuNzM4NTc5NywtMC43Mzg1OCAtMC43Mzg1Nzk3LC0xLjkyNzgwNiAwLC0y LjY2NjM4NiBMIDguMzMzNjEzMiwxMSA1LjIzNzY3MTYsNy45MDQwNTg2IGMgLTAuNzM4NTc5Nywt MC43Mzg1ODA2IC0wLjczODU3OTcsLTEuOTI3NjkyNSAwLC0yLjY2NjI3MjkgMC4zNjkyOSwtMC4z NjkyODkxIDAuODUxMzA3MywtMC41NTM5NjI2IDEuMzMzMjUwNCwtMC41NTM5NjI2IHoiIC8+CiAg PC9nPgo8L3N2Zz4K "
+           id="image856"
+           x="-241.40466"
+           y="12.391322" />
+      </g>
+    </g>
+  </g>
+</svg>

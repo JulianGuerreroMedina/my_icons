@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32mm"
+   height="32mm"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="btn-folderadd.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6709388"
+     inkscape:cx="58.350431"
+     inkscape:cy="92.163758"
+     inkscape:window-width="1516"
+     inkscape:window-height="849"
+     inkscape:window-x="172"
+     inkscape:window-y="53"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g5911" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2561"
+       transform="matrix(0.24314156,0,0,0.23738281,68.69551,7.7684852)"
+       style="stroke-width:4.16242">
+      <g
+         id="g5911"
+         transform="matrix(1,0,0,1.0333474,-5.8606105e-7,-3.4040375)"
+         style="stroke-width:4.09471">
+        <g
+           id="g1107"
+           transform="matrix(1,0,0,1.1348376,0,-34.147215)">
+          <path
+             style="fill:#fbe24c;stroke-width:4.09471"
+             d="m -282.5307,53.86424 c 0.0824,-37.444079 0.10472,-38.959129 0.59918,-40.647749 1.1564,-3.94915 4.71968,-7.09251 8.94491,-7.89077 1.07424,-0.20296 5.08272,-0.27573 12.2843,-0.22303 l 10.68976,0.0782 5.92248,7.7916 c 3.25737,4.28539 6.13652,7.94656 6.39813,8.13594 0.3796,0.27481 4.18361,0.34433 18.84062,0.34433 l 59.13614,0.40212 c 2.88042,0.73058 5.19469,2.39953 6.8613,4.94805 1.9036,2.91092 1.82103,1.38128 1.91056,35.395656 -0.0608,12.280595 0.0209,12.100001 0.0209,12.100001 l -65.81824,-0.06146 -65.74576,0.04956 c 0,0 -0.0586,-13.631239 -0.0443,-20.422473 z"
+             id="path1103"
+             sodipodi:nodetypes="cssscscccscccccc" />
+          <path
+             style="fill:#fbb800;stroke-width:4.09471"
+             d="m -273.91658,101.72001 c -3.24643,-0.87093 -6.08659,-3.199044 -7.58531,-6.21777 l -0.87219,-1.756778 -0.0795,-9.723437 -0.0794,-9.723437 h 65.80528 65.80529 l -0.0795,9.723437 -0.0795,9.723437 -0.89335,1.800487 c -1.52619,3.07589 -4.58538,5.508751 -7.86342,6.253471 -1.84572,0.41931 -112.50645,0.34228 -114.07837,-0.0794 z"
+             id="path1105"
+             sodipodi:nodetypes="sscccccccssss" />
+        </g>
+        <image
+           preserveAspectRatio="none"
+           inkscape:svg-dpi="96"
+           width="90.482269"
+           height="89.686501"
+           xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjwh LS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoK PHN2ZwogICB3aWR0aD0iMTAwbW0iCiAgIGhlaWdodD0iMTAwbW0iCiAgIHZpZXdCb3g9IjAgMCAx MDAgMTAwIgogICB2ZXJzaW9uPSIxLjEiCiAgIGlkPSJzdmc1IgogICBpbmtzY2FwZTp2ZXJzaW9u PSIxLjEuMiAoMGEwMGNmNTMzOSwgMjAyMi0wMi0wNCkiCiAgIHNvZGlwb2RpOmRvY25hbWU9ImJ0 bi1wbHVzLnN2ZyIKICAgeG1sbnM6aW5rc2NhcGU9Imh0dHA6Ly93d3cuaW5rc2NhcGUub3JnL25h bWVzcGFjZXMvaW5rc2NhcGUiCiAgIHhtbG5zOnNvZGlwb2RpPSJodHRwOi8vc29kaXBvZGkuc291 cmNlZm9yZ2UubmV0L0RURC9zb2RpcG9kaS0wLmR0ZCIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMu b3JnLzIwMDAvc3ZnIgogICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4K ICA8c29kaXBvZGk6bmFtZWR2aWV3CiAgICAgaWQ9Im5hbWVkdmlldzciCiAgICAgcGFnZWNvbG9y PSIjZmZmZmZmIgogICAgIGJvcmRlcmNvbG9yPSIjNjY2NjY2IgogICAgIGJvcmRlcm9wYWNpdHk9 IjEuMCIKICAgICBpbmtzY2FwZTpwYWdlc2hhZG93PSIyIgogICAgIGlua3NjYXBlOnBhZ2VvcGFj aXR5PSIwLjAiCiAgICAgaW5rc2NhcGU6cGFnZWNoZWNrZXJib2FyZD0iMCIKICAgICBpbmtzY2Fw ZTpkb2N1bWVudC11bml0cz0ibW0iCiAgICAgc2hvd2dyaWQ9ImZhbHNlIgogICAgIHdpZHRoPSIx MDBtbSIKICAgICBpbmtzY2FwZTp6b29tPSIwLjQ0Njg5MzE5IgogICAgIGlua3NjYXBlOmN4PSIz MjcuODE4ODIiCiAgICAgaW5rc2NhcGU6Y3k9IjIwMS4zOTA0IgogICAgIGlua3NjYXBlOndpbmRv dy13aWR0aD0iMTUxNiIKICAgICBpbmtzY2FwZTp3aW5kb3ctaGVpZ2h0PSI4NDkiCiAgICAgaW5r c2NhcGU6d2luZG93LXg9IjQwNCIKICAgICBpbmtzY2FwZTp3aW5kb3cteT0iNjI1IgogICAgIGlu a3NjYXBlOndpbmRvdy1tYXhpbWl6ZWQ9IjAiCiAgICAgaW5rc2NhcGU6Y3VycmVudC1sYXllcj0i bGF5ZXIxIiAvPgogIDxkZWZzCiAgICAgaWQ9ImRlZnMyIiAvPgogIDxnCiAgICAgaW5rc2NhcGU6 bGFiZWw9IkNhcGEgMSIKICAgICBpbmtzY2FwZTpncm91cG1vZGU9ImxheWVyIgogICAgIGlkPSJs YXllcjEiPgogICAgPHBhdGgKICAgICAgIGlkPSJwYXRoNjUiCiAgICAgICBzdHlsZT0iZmlsbDoj MDA4MDAwO3N0cm9rZTpub25lO3N0cm9rZS13aWR0aDowLjMwMDU3NyIKICAgICAgIGQ9Im0gODUu MjQ5MDM5LDE0Ljc1MDk2IGMgLTE5LjQ2NzUxNSwtMTkuNDY3NDgzMiAtNTEuMDMwNTYyLC0xOS40 Njc0ODIxIC03MC40OTgwNzgsMCAtMTkuNDY3NDg0MSwxOS40Njc1MTUgLTE5LjQ2NzQ4NDgsNTEu MDMwNTYzIC0xZS02LDcwLjQ5ODA3OSAxOS40Njc1MTYsMTkuNDY3NDkxIDUxLjAzMDU2MiwxOS40 Njc0ODEgNzAuNDk4MDgsMCAxOS40Njc0OCwtMTkuNDY3NTE5IDE5LjQ2NzQ5LC01MS4wMzA1NjQg LTEwZS03LC03MC40OTgwNzkgeiBtIC0yOS4yMDE5MSwwLjgxNjMyIGMgMS41NDQzNjgsMS41NDQz NjggMi40OTY4MjksMy42ODAzODUgMi40OTY4MzEsNi4wNDcxMyB2IDE5Ljg0MTYyOSBsIDE5Ljg0 MTYzLDJlLTYgYyA0LjczMzQ5Myw3ZS02IDguNTQ0MzI1LDMuODEwODM5IDguNTQ0MzI0LDguNTQ0 MzI0IDAsNC43MzM1IC0zLjgxMDQ1OSw4LjU0Mzk1OSAtOC41NDM5NTksOC41NDM5NiBsIC0xOS44 NDE2MzEsLTJlLTYgdiAxOS44NDE2MzIgYyAwLDQuNzMzNSAtMy44MTA4MjQsOC41NDQzMjQgLTgu NTQ0MzI0LDguNTQ0MzI0IC00LjczMzQ5Miw4ZS02IC04LjU0NDMyNCwtMy44MTA4MjQgLTguNTQ0 MzI0LC04LjU0NDMyNCBWIDU4LjU0NDMyMyBsIC0xOS44NDE2MzEsMmUtNiBjIC00LjczMzQ5OCwx MGUtNyAtOC41NDQzMjgsLTMuODEwODI4IC04LjU0NDMyNSwtOC41NDQzMjYgMmUtNiwtNC43MzM0 OTggMy44MTA4MjYsLTguNTQ0MzIyIDguNTQ0MzI0LC04LjU0NDMyNCBsIDE5Ljg0MTYzMSwtMTBl LTcgLTEwZS03LC0xOS44NDE2MjkgYyAzZS02LC00LjczMzQ5OSAzLjgxMDQ2MiwtOC41NDM5NTgg OC41NDM5NiwtOC41NDM5NiAyLjM2Njc0NiwzZS02IDQuNTAzMTI5LDAuOTUyODI4IDYuMDQ3NDk1 LDIuNDk3MTk1IHoiIC8+CiAgPC9nPgo8L3N2Zz4K "
+           id="image898"
+           x="-241.40468"
+           y="12.391307" />
+      </g>
+    </g>
+  </g>
+</svg>
