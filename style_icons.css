@@ -126,6 +126,16 @@ btn-attach
 .ico-link{display: inline-block; width:22px; height: 22px; background: url(link.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 .external-link{display: inline-block; width:22px; height: 22px; background: url(external-link.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 .list-check{display: inline-block; width:32px; height: 32px; background: url(list-check.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
+.sendmail{display: inline-block; width:32px; height: 32px; background: url(sendmail.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
+
+
+
+.filetype-pdf{display: inline-block; width:32px; height: 32px; background: url(filetype-pdf.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
+.filetype-xml{display: inline-block; width:32px; height: 32px; background: url(filetype-xml.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
+.upload{display: inline-block; width:32px; height: 32px; background: url(upload.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
+
+
+
 
 
 
