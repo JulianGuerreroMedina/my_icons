@@ -101,6 +101,8 @@ btn-attach
 .btn-shuffle{display: inline-block; width:22px; height: 22px; background: url(btn-shuffle.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 .btn-slider{display: inline-block; width:22px; height: 22px; background: url(btn-slider.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
+.person-circle{display: inline-block; width:22px; height: 22px; background: url(person-circle.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+
 
 
 
