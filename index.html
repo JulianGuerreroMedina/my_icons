@@ -272,6 +272,7 @@
             <div class="iconos"><span class="square-null" title="square-null"></span><p>square-null</p></div>
             <div class="iconos"><span class="square-check" title="square-check"></span><p>square-check</p></div>
             <div class="iconos"><span class="dollar-square" title="dollar-square"></span><p>dollar-square</p></div>
+            <div class="iconos"><span class="btn-robot" title="btn-robot"></span><p>btn-robot</p></div>
             <div class="iconos"><span class="file-break" title="file-break"></span><p>file-break</p></div>
             <div class="iconos"><span class="file-break-fill" title="file-break-fill"></span><p>file-break-fill</p></div>
             <div class="iconos"><span class="folder-locked" title="folder-locked"></span><p>folder-locked</p></div>
@@ -284,6 +285,11 @@
             <div class="iconos"><span class="filetype-pdf" title="filetype-pdf"></span><p>filetype-pdf</p></div>
             <div class="iconos"><span class="filetype-xml" title="filetype-xml"></span><p>filetype-xml</p></div>
             <div class="iconos"><span class="filetype-xls" title="filetype-xls"></span><p>filetype-xls</p></div>
+            <div class="iconos"><span class="filetype-xls" title="filetype-xls"></span><p>filetype-xls</p></div>
+            <div class="iconos"><span class="filetype-xls" title="filetype-xls"></span><p>filetype-xls</p></div>
+            <div class="iconos"><span class="arrow-90deg-right" title="arrow-90deg-right"></span><p>arrow-90deg-right</p></div>
+            <div class="iconos"><span class="arrow-90deg-left" title="arrow-90deg-left"></span><p>arrow-90deg-left</p></div>
+
             
         </div>
         </section>
@@ -302,11 +308,11 @@
 
                 function classify(iconClass) {
                     if (/^(btn-file|btn-folder|file-break|folder-locked)/.test(iconClass)) return "Archivos y Carpetas";
-                    if (/^(btn-left|btn-right|btn-up|btn-down|btn-link|external-link|btn-plus|btn-toggle|btn-search|btn-play|btn-stop|btn-shuffle|btn-slider)/.test(iconClass)) return "Navegacion y Acciones";
+                    if (/^(btn-left|btn-right|btn-up|btn-down|btn-link|external-link|btn-plus|btn-toggle|btn-search|btn-play|btn-stop|btn-shuffle|btn-slider|arrow-90deg-right|arrow-90deg-left)/.test(iconClass)) return "Navegacion y Acciones";
                     if (/^(btn-user|btn-users|btn-user-plus|person-circle|id-user|default-avatar)/.test(iconClass)) return "Usuarios y Perfil";
                     if (/^(btn-check|btn-uncheck|btn-check-some|square-|btn-selected|btn-delivery|btn-bell|btn-exclamation|notificacion_)/.test(iconClass)) return "Estados y Validaciones";
                     if (/^(whatsapp|telephone-fill|geo-alt|sendmail)/.test(iconClass)) return "Comunicacion";
-                    if (/^(btn-bd|btn-calc|btn-calendar|calendar-cancel|btn-camera|btn-clock|btn-edit|btn-filtro|btn-grafica|btn-hdd|btn-help|btn-home|btn-list-ol|btn-lock|btn-opciones|icon-gear|btn-power|btn-printer|btn-repeat|btn-reply|btn-save|trash|dollar-square|pie-chart|ico-php|ico-cake|ico-loading|pc-display|mariadb)/.test(iconClass)) return "Sistema y Herramientas";
+                    if (/^(btn-bd|btn-calc|btn-calendar|calendar-cancel|btn-camera|btn-clock|btn-edit|btn-filtro|btn-grafica|btn-hdd|btn-help|btn-home|btn-list-ol|btn-lock|btn-opciones|icon-gear|btn-power|btn-printer|btn-repeat|btn-reply|btn-save|trash|dollar-square|btn-robot|pie-chart|ico-php|ico-cake|ico-loading|pc-display|mariadb)/.test(iconClass)) return "Sistema y Herramientas";
                     return "Otros";
                 }
 

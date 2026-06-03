@@ -99,10 +99,21 @@
 .default-avatar{display: inline-block; width:50px; height: 50px; background: url(icons/default-avatar.svg) no-repeat center center; background-size: 50px 50px; border-radius: 14px; margin:0px 2px;}
 .ico-cake{display: inline-block; width:22px; height: 22px; background: url(icons/ico-cake.png) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 
+
+.arrow-90deg-right{display: inline-block; width:22px; height: 22px; background: url(icons/arrow-90deg-right.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.arrow-90deg-left{display: inline-block; width:22px; height: 22px; background: url(icons/arrow-90deg-left.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+
+
+
+
+
 .external-link{display: inline-block; width:22px; height: 22px; background: url(icons/external-link.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 .list-check{display: inline-block; width:32px; height: 32px; background: url(icons/list-check.svg) no-repeat center center; background-size: 32px 32px; margin:0px 2px;}
 
 .dollar-square{display: inline-block; width:22px; height: 22px; background: url(icons/dollar-square.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.dollar-square{display: inline-block; width:22px; height: 22px; background: url(icons/dollar-square.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+.btn-robot{display: inline-block; width:22px; height: 22px; background: url(icons/robot.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
+
 
 .file-break{display: inline-block; width:22px; height: 22px; background: url(icons/file-break.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
 .file-break-fill{display: inline-block; width:22px; height: 22px; background: url(icons/file-break-fill.svg) no-repeat center center; background-size: 22px 22px; margin:0px 2px;}
