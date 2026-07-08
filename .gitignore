@@ -9,3 +9,5 @@ docker/.env
 *.pem
 *.p12
 *.pfx
+
+.codebase-memory/
